@@ -1,2 +1,6 @@
 two	(edited in branch 1)
 three   (edited in branch 1) 
+
+four	(edited in branch 2)
+five 	(edited in branch 2)
+
